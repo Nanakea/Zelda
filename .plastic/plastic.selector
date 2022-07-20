@@ -1,0 +1,4 @@
+repository "Tales of Kohama@Kohamasha@cloud"
+  path "/"
+    br "/main"
+    co "/main"
